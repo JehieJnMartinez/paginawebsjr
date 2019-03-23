@@ -1,0 +1,43 @@
+body{
+    background: #AED6F1;
+    margin-top: 0em;
+    
+}
+.comun {
+    padding: 12px;
+    font-size: 30px;
+}
+.sjr{
+    background-color: #3498DB ;
+    opacity: .7;
+    text-align: center;
+    height: 200px;
+    border-radius: 6px;
+    
+   
+}
+.lacomunidad{
+    background-color: #FBFCFC ;
+    padding: 3em 3em 3em 3em;
+    text-align: justify;
+    margin: 2em 2em 4em 3em;
+    font-size: 20px;
+    border-radius: 3px;
+}
+.imagen1 {
+    margin-bottom:0.8em;
+    margin-top: 0.8em;
+}
+.imagen2 {
+    margin-bottom: 0.8em;
+    margin-top: 0.8em;
+}
+.imagen3 {
+    margin-bottom: 0.8em;
+    margin-top: 0.8em
+}
+footer .contener {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,0 +1,22 @@
+#La_Comunidad .contenedor{
+    display: flex;
+    justify-content: center;
+}
+#La_Comunidad h3, h4{
+    text-align: center;
+}
+
+#La_Comunidad .contenedor{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#La_Comunidad article {
+    margin: 15px;
+    
+}
+#La_comunidad img{
+    width: 100%;
+    max-width: 300px;  
+}
